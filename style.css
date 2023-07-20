@@ -1,0 +1,31 @@
+/*****************GENERAL****************/
+
+ul {
+    display: flex;
+    justify-content: center;
+    font-size: 1.3em;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+#menu {
+    background-color: #977;; 
+    padding: 10px; 
+  }
+  
+#menu li {
+    display: inline-block; 
+    margin-right: 20px; 
+  }
+  
+#menu li a {
+    text-decoration: none; 
+    color: #fff; 
+    padding: 5px 10px; 
+    border-radius: 5px; 
+  }
+  
+#menu li a:hover {
+    background-color: #555; 
+  }
